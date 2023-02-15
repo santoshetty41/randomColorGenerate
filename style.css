@@ -78,3 +78,14 @@
         width: 60%;
     }
 }
+@media screen and (max-width:1080px) {
+
+    .copy {
+        left: 72%;
+        top:48%;
+    }
+
+    .box {
+        width: 60%;
+    }
+}
